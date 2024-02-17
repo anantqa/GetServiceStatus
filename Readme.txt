@@ -1,1 +1,1 @@
-This script used for to get service status
+This script used for to get service status also it can be used for restarting the service in case of not running.
