@@ -1,0 +1,1 @@
+This script used for to get service status
